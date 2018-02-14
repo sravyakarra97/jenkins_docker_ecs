@@ -21,4 +21,4 @@ Build and run using Docker Compose:
 	$ docker login
 	$ docker-cloud stack up
 
-Hello world! Jenkins to ECS worked!!
+Hello world! Jenkins to ECS  Deployment worked!!
